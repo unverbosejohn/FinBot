@@ -1,6 +1,6 @@
 # Contributing to FinBot
 
-Thank you for your interest in contributing to FinBot! We appreciate your involvement and look forward to collaborating with you. Below are some guidelines to help you get started with making contributions.
+Thank you for your interest in contributing to FinBot! We appreciate your involvement and look forward to collaborating with you. Below are some guidelines to help you get started with making contributions. Project currently in development, check master branch
 
 ## Getting Started
 
